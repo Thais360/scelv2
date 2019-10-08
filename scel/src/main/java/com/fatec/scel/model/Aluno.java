@@ -65,11 +65,9 @@ public class Aluno {
 		this.Email = e;
 	}
 	public void setId(Long id2) {
-		// TODO Auto-generated method stub
 		
 	}
 	public Aluno get() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 }
