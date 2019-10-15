@@ -23,11 +23,7 @@ public class Emprestimo {
 	// data do emprestimo - data atual do sistema
 	public void setDataEmprestimo( ) {
 	
-		DateTime dataAtual = new DateTime();
-		DateTimeFormatter fmt = DateTimeFormatter.forPattern("YYYY/MM/dd");
-		this.dataEmprestimo = dataAtual.toString(fmt);
-		public String setdataDevolucaoPrevista() {
-			return null;
+		
 		
 	}
 	public void setRA(String i) {
